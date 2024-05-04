@@ -16,5 +16,6 @@ for (let i = 0; i < accordian.length; i++) {
     } else {
       content.style.maxHeight = content.scrollHeight + "px";
     }
+    // end task //
   });
 }
